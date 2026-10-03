@@ -1,6 +1,0 @@
-app:
-  name: "clinical-trial-eligibility-matcher"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

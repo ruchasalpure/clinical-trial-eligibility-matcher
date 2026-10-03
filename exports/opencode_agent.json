@@ -1,8 +1,0 @@
-{
-  "agent_id": "clinical-trial-eligibility-matcher",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
