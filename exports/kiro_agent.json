@@ -1,0 +1,5 @@
+{
+  "name": "clinical-trial-eligibility-matcher",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}

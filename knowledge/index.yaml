@@ -1,0 +1,5 @@
+domain_knowledge:
+  category: "healthcare"
+  agent: "clinical-trial-eligibility-matcher"
+  ontology: "OpenGAP Core Ontology v1.0"
+  indexed_entities: 1024

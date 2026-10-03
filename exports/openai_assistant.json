@@ -1,0 +1,10 @@
+{
+  "name": "clinical-trial-eligibility-matcher",
+  "instructions": "You are Clinical Trial Eligibility Matcher. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
